@@ -28,7 +28,7 @@ Seguramente al reemplazar te saldrá un ventana requiriendo la confirmación de 
 Listo! Cierra MySql Workbrench, vuelve a abrir y verás el cambio.
 
 # Nota
-Con las modificaciones necesarias al script (añadiendo nuevas columnas a la tabla 'visitas' en tu Base de datos, por ejemplo), puedes incluir visitas para uno o más repositorios.
+Recuerda guardar una copia del archivo original antes de reemplazar el archivo code_editor.xml por el que acabas de descargar. 
 
 ## Participa
 <p align="left">
