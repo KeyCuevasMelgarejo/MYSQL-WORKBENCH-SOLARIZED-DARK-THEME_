@@ -26,6 +26,7 @@ En todo caso puedes buscar el archivo simplemente como code_editor.xml dentro de
 ### 3. Reemplaza el archivo existente por el que acabas de descargar.
 Seguramente al reemplazar te saldrá un ventana requiriendo la confirmación de permisos de administrador, le das en Continuar.
 
+
 Listo! Cierra MySql Workbrench, vuelve a abrir y verás el cambio.
 
 # Nota
