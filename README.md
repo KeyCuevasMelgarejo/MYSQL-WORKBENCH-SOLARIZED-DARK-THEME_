@@ -19,6 +19,7 @@ Tema para el workspace de tu MySql Workbench.
 Normalmente el archivo code_editor.xml (que vas a reemplazar) se encuentra alojado en la siguiente ruta:
 
 [Windows] C:\Program Files\MySQL\MySQL Workbench X.X\data\code_editor.xml
+
 [Linux] /usr/share/mysql-workbench/data/code_editor.xml (o depende donde lo hayas instalado)
 
 En todo caso puedes buscar el archivo simplemente como code_editor.xml dentro de tu administrador de archivos. Siempre tiene la estructura de: .../data/code_editor.xml
