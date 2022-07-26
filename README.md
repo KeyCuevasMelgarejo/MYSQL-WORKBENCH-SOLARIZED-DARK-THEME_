@@ -7,7 +7,7 @@ Tema para el workspace de tu MySql Workbrench.
 # Demo
 
 <p align="center"> 
-    <img src="/Demo.png"/>
+    <img src="/Demo.PNG"/>
 </p>
 
 # Uso
