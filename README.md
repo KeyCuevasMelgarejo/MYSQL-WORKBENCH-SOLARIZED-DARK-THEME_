@@ -1,4 +1,4 @@
-# MySQL Workbench Solarized Dark
+# MySQL Workbench Solarized Dark Theme
 
 Tema para el workspace de tu MySql Workbench.
 
